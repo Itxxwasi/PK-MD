@@ -19,7 +19,7 @@ import {
   
  
  
-  ╭━━⊱『 *I N F O*』⊱━━╮
+  ╭━━⊱『 *PK MD MENU*』⊱━━╮
   ⛥ *Mode:* %mode
   ⛥ *Platform:* %platform
   ⛥ *Type:* NodeJs
